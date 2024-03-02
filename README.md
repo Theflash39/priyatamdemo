@@ -1,2 +1,3 @@
 # priyatamdemo
-thish is my first gift repository
+thish is my first gift repository.
+Author-priyatam
